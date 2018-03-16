@@ -1,6 +1,6 @@
 ## DevConf
 
-Landing page referente ao evento DevConf, primeiro evento do Opensanca.
+Landing page referente ao evento WeComp, primeiro evento da ADS.
 
 ## Installation
 
@@ -10,8 +10,8 @@ Landing page referente ao evento DevConf, primeiro evento do Opensanca.
 
 ## Contributors
 
-@cristofersousa and @guilhermecabrini
+@cristofersousa
 
 ## License
 
-Apache
+MIT
