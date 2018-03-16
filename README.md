@@ -1,4 +1,4 @@
-## DevConf
+## WeComp
 
 Landing page referente ao evento WeComp, primeiro evento da ADS.
 
