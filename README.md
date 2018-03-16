@@ -4,8 +4,10 @@ Landing page referente ao evento WeComp, primeiro evento da ADS.
 
 ## Installation
 
+
+- git clone
 - npm install
-- gulp serve
+- gulp
 
 
 ## Contributors
